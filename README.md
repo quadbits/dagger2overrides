@@ -5,6 +5,8 @@ This project tries to show some alternative approaches to achieve overriden depe
 
 It is a plain Java 8 project with a Gradle configuration. It can be easily compiled using Gradle and it also contains a sample console program on the Application class.
 
+Dagger documentation on testing (http://google.github.io/dagger/testing.html) also contains some examples using separate components that can well be used for other scenarios.
+
 
 
 Contributors
